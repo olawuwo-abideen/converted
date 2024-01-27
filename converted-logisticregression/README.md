@@ -1,0 +1,1 @@
+Predicting Converted Customer using Logistic Regression calculation of Accuracy, Confusion Matrix, Precision and Recall, ROC , AUC.  The dataset was downloaded from (https://www.kaggle.com/datasets/ashydv/leads-dataset)
